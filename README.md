@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm currently learning Java. 
+I want to understand Minecraft plugins and develop my own.
+
+I am, however, really interested in clever programming though I can't replicate it 
+(you know, stuff like optimization and other neat projects.)
+
+
 <!--
 **Hebraaaa/Hebraaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
